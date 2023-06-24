@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\bin\Debug\net7.0\AppConsola.exe
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\bin\Debug\net7.0\AppConsola.deps.json
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\bin\Debug\net7.0\AppConsola.runtimeconfig.json
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\bin\Debug\net7.0\AppConsola.dll
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\bin\Debug\net7.0\AppConsola.pdb
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.AssemblyInfo.cs
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.dll
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\refint\AppConsola.dll
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.pdb
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\AppConsola.genruntimeconfig.cache
+C:\Users\HP\Desktop\DevZero\Facturacion Streaming\AppConsola\obj\Debug\net7.0\ref\AppConsola.dll
